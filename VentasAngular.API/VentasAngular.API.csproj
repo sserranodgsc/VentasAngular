@@ -10,4 +10,10 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VentasAngular.BLL\VentasAngular.BLL.csproj" />
+    <ProjectReference Include="..\VentasAngular.DTO\VentasAngular.DTO.csproj" />
+    <ProjectReference Include="..\VentasAngular.IOC\VentasAngular.IOC.csproj" />
+  </ItemGroup>
+
 </Project>

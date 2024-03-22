@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VentasAngular.Model\VentasAngular.Model.csproj" />
+  </ItemGroup>
+
 </Project>

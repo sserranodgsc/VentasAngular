@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VentasAngular.BLL\VentasAngular.BLL.csproj" />
+    <ProjectReference Include="..\VentasAngular.DAL\VentasAngular.DAL.csproj" />
+    <ProjectReference Include="..\VentasAngular.Utility\VentasAngular.Utility.csproj" />
+  </ItemGroup>
+
 </Project>
