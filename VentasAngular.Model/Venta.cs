@@ -1,7 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-
-namespace VentasAngular.Model;
+﻿namespace VentasAngular.Model;
 
 public partial class Venta
 {
